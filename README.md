@@ -4,3 +4,4 @@
 - Any information regarding the status of the project, changes, features, analysis and also polishing of the readme file will be documented here.
 
 - **Student name**: Franco Faúndez Cabion
+- DSE 2024/2025, First Year
