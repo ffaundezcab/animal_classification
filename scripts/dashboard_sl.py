@@ -98,7 +98,7 @@ st.altair_chart(c, use_container_width=True)
 
 
 st.header("🐺A wolf in sheep's clothing")
-st.write("If our model says that an animal is a mammal, what does he understand as a mammal?\n\
+st.write("If our model says that an animal is a mammal, then what does he understand as a mammal?\n\
          \n  Using the results of each model we can compute the centroids and group all the points in one characteristic vector. \
              For models that don't have a proper centroid (DBSCAN, for instance) we aggregated the data for each cluster and then \
             each centroid was calculated. \n\
